@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" filepath="$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/izohli_lugat.iml" filepath="$PROJECT_DIR$/.idea/modules/izohli_lugat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/izohli_lugat.app.unitTest.iml" />
     </modules>
   </component>
 </project>
